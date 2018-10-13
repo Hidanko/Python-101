@@ -1,2 +1,6 @@
 # Python-101
-Converting Java applications in to Python / Alura activities 
+( ͡° ͜ʖ ͡°)╯╲___Don't mind me just taking my scripts for a walk 
+
+## download_folder_cleaner
+
+Script to delete files with certains extensions
