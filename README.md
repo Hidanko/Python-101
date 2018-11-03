@@ -4,3 +4,7 @@
 ## download_folder_cleaner
 
 Script to delete files with certains extensions
+
+## url_cleaner
+
+Script to remove parameters url from clipboard
