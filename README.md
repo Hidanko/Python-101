@@ -8,3 +8,11 @@ Script to delete files with certains extensions
 ## url_cleaner
 
 Script to remove parameters url from clipboard
+
+## desligar_windows
+
+Script to turn off windows (compiled for Windows 10 x64 bits, not sure if works in any other distribution)
+
+## bloquear_windows
+
+Script to block windows with user still on (compiled for Windows 10 x64 bits, not sure if works in any other distribution)
